@@ -1,0 +1,15 @@
+﻿"Symbol";"Value";"Unit";
+"REFERENCE";"HSW 5/6";"";
+"WeightSTK";"0.3";"";
+"TraceParts.PartVersion";"1.0.7";"";
+"SUPPLIER";"pewag";"";
+"WLL";"1400";"";
+"TraceParts.PartStatus";"Published";"";
+"TraceParts.PartNumber";"30-03122012-067303";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"HSW Eye sling hooks";"";
+"TraceParts.InstanceId";"30-03122012-067303E2YKWH0NSTOHCADLZV4BT6RW4";"";
+"TraceParts.PartTitle";"HSW Eye sling hooks";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"TraceParts.PartStatusId";"";"";
+"TraceParts.ClassPath";"PEWAG:/ROOT/C53/C53.020/C53.020.010/30-03122012-067303";"";

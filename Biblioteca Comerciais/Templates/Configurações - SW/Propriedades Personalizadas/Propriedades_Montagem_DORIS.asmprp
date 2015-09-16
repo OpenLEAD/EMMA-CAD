@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CPTemplate>
+  <CPSheet>
+    <MessageBox>Propriedades  Personalizadas - Montagem</MessageBox>
+    <GroupBox Label="Informaçoes Tecnicas" PropName="Groupbox13" DefaultState="Expanded">
+      <Control Label="Designed By:" PropName="Designed By:" ApplyTo="Config" Type="ComboBox" UserDefineable="False">
+        <Data Path="" SourceType="List">
+          <Item>Guilherme Carvalho</Item>
+          <Item>Ramonkevicius</Item>
+        </Data>
+      </Control>
+      <Control Label="Date:" PropName="Date" ApplyTo="Config" Type="TextBox" DefaultValue="" Mode="Date" />
+      <Control Label="Verified By:" PropName="Verified By:" ApplyTo="Config" Type="ComboBox" UserDefineable="False">
+        <Data Path="" SourceType="List">
+          <Item>Guilherme Carvalho</Item>
+          <Item>Ramon Romankevicius</Item>
+        </Data>
+      </Control>
+      <Control Label="Ver. date:" PropName="Ver. date:" ApplyTo="Config" Type="TextBox" DefaultValue="" Mode="Date" />
+    </GroupBox>
+    <GroupBox Label="Propriedades da Montagem" PropName="Groupbox2" DefaultState="Expanded">
+      <Control Label="Title:" PropName="Title:" ApplyTo="Config" Type="TextBox" DefaultValue="" Mode="Text" />
+      <Control Label="Part Number:" PropName="Part Number:" ApplyTo="Config" Type="TextBox" DefaultValue="" Mode="Text" />
+      <Control Label="Quant.:" PropName="Quant.:_Peça" ApplyTo="Config" Type="NumericCtrl" DefaultValue="0" />
+    </GroupBox>
+    <GroupBox Label="Propriedades do Desenho" PropName="Groupbox12" DefaultState="Expanded">
+      <Control Label="Scale:" PropName="Scale:" ApplyTo="Config" Type="TextBox" DefaultValue="SW-Sheet Scale" Mode="SWProperty" />
+      <Control Label="Rev.:" PropName="Rev.:" ApplyTo="Config" Type="TextBox" DefaultValue="" Mode="Text" />
+    </GroupBox>
+  </CPSheet>
+</CPTemplate>

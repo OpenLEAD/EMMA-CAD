@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<CPTemplate>
+  <CPSheet>
+    <GroupBox Label="Propriedades Personalizadas - Desenho" PropName="Groupbox2" DefaultState="Expanded">
+      <Control Label="Folha Atual:" PropName="Folha Atual" ApplyTo="Config" Type="TextBox" DefaultValue="SW-Current Sheet" Mode="SWProperty" />
+      <Control Label="Folha Total:" PropName="Folha Total:" ApplyTo="Config" Type="TextBox" DefaultValue="SW-Total Sheets" Mode="SWProperty" />
+    </GroupBox>
+  </CPSheet>
+</CPTemplate>

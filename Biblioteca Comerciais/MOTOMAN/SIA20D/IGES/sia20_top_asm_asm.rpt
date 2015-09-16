@@ -1,0 +1,72 @@
+*****************************************************************
+      SolidWorks Corporation - Relatório de status do Processador de IGES
+*****************************************************************
+=================================================================
+Informações gerais
+=================================================================
+Enviando ID de produto do sistema : SIA20_TOP_ASM_ASM
+Recebendo ID de produto do sistema : SIA20_TOP_ASM_ASM
+Nome do arquivo                    : sia20_top_asm_asm.igs
+Enviando sistema               : Pro/ENGINEER by Parametric Technology Corporation
+Versão do pré-processador         : 2004490
+Data de criação do arquivo           : 080105.142349
+Data de criação do modelo           : 080105.142349
+Unidades                        : MM
+Escala de espaço do modelo            : 1
+Autor                       : toka
+Organização                 : Unknown
+
+
+=================================================================
+Informações de processamento da entidade
+=================================================================
+
+
+=================================================================
+Análise de precisão do arquivo IGES:
+=================================================================
+  Número mais prevalente de dígitos significativos:              13
+  Número mais alto de dígitos significativos:                     13
+  Número médio de dígitos significativos:                11.1993
+  Distância máxima da origem:                           581.87
+  Distância mínima da origem:                                0
+  Número eficaz de dígitos significativos:                   13
+
+
+=================================================================
+Resumo de entidade
+=================================================================
+-----------------------------------------------------------------
+Nome do tipo                                         Contagem convertida
+---- ----                                         ----- ---------
+100  Arc                                           9904      9904
+104  Conic arc                                        8         8
+110  Line                                         15899     15899
+120  Surface of revolution                         5234      5234
+124  Transformation matrix                         9912      9912
+126  Rational B-spline curve                       3986      3986
+128  Rational B-spline surface                     2317      2317
+186  Manifold Solid B-rep Object                     35        35
+314  Color definition                                12        12
+402  Associativity instance                          42        42
+406  Property                                        42        42
+502  Vertex list                                    402       402
+504  Edge entity                                    402       402
+508  Loop entity                                   9200      9200
+510  Face entity                                   7551      7551
+514  Shell entity                                   402       402
+_________________________________________________________________
+
+
+=================================================================
+Resumo de resultados
+=================================================================
+Tipo de recurso do SolidWorks                Contagem
+-----------------------                -----
+Recursos sólidos                       34
+Recursos de superfície                     368
+Recursos de curva/esboço                0
+--------------------------------------------
+Hora inicial: quinta-feira, julho 30, 2015 13:47:19
+Hora de término: quinta-feira, julho 30, 2015 13:48:46
+Tempo de processamento: 0 days, 00 hours, 01 mins, 27 secs
